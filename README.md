@@ -11,6 +11,7 @@ My 2nd filter was that are the passengers signed in for loyality program or not.
 ![image](https://user-images.githubusercontent.com/87725407/127734892-7090eca7-c0fe-466c-936d-a18a3472f439.png)
 
 My 3rd filter was that wheather the distance travelled by the passengers is less than 2500 km or greater than it. I came to find  that around 85% of the passengers are those who travelled below 2500 km.
+
 ![image](https://user-images.githubusercontent.com/87725407/127735129-4a241c65-273b-4960-933d-850dcc98b59f.png)
 
 My 4th and 5th filter was the AGE and the GENDER but i was not able to find any conclusions as they were spread very equally so i removed both of them.
