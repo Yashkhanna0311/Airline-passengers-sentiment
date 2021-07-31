@@ -5,9 +5,11 @@ The problem statement here is that the airline wants me to find the TARGET PASSE
 Now coming to the 1st part of the question is how to find the target audience. So for this i made some filters and apply these filters using SQL queries.  
 --
 My 1st filter was the type of class the passengers preffered . I came to find  that around 92% of passengers either travel in economic or business class hence removing the eco plus class.
+
 ![image](https://user-images.githubusercontent.com/87725407/127734854-bdd29164-963b-4675-8193-6f1334a346ba.png)
 
 My 2nd filter was that are the passengers signed in for loyality program or not. I came to find that 82% of our passengers are signed up for loyality program so we can remove the rest of the passengers from our target passengers.
+
 ![image](https://user-images.githubusercontent.com/87725407/127734892-7090eca7-c0fe-466c-936d-a18a3472f439.png)
 
 My 3rd filter was that wheather the distance travelled by the passengers is less than 2500 km or greater than it. I came to find  that around 85% of the passengers are those who travelled below 2500 km.
