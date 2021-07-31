@@ -31,6 +31,9 @@ CONCLUSIONS I MADE
 --
 ![image](https://user-images.githubusercontent.com/87725407/127735302-dfb67f80-7304-4d36-bf9c-792cf48a87e4.png)
 
+Assuming that the rating above 3 is above averge rating		
+
+
 1)The UI of the app from which tickets are being booked has to be made more userfriendly
 --
 2)The inflight wifi has to be made more efficient giving more data speed for the passengers	
