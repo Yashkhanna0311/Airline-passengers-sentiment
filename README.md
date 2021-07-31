@@ -1,6 +1,6 @@
 # Airline-passengers-sentiment
 Data analysis portfolio project
-I have made this project by my self. I n this project i have taken the data from the site named kaggle. The data is based on airline passenger sentiment analysis.The data contains the information about the passengers and the ratings they have given to the different aspects of there airline experience.
+I have made this project by my self. In this project i have taken the data from the site named kaggle. The data is based on airline passenger sentiment analysis.The data contains the information about the passengers and the ratings they have given to the different aspects of there airline experience.
 The problem statement here is that the airline wants me to find the TARGET PASSENGERS of the airline and than to give some suggestions on what aspect should they improve for making the passengers experience more delightful.
 Now coming to the 1st part of the question is how to find the target audience. So for this i made some filters and apply these filters using SQL queries.  
 --
